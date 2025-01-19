@@ -16,7 +16,7 @@ Hello! I am Ali Hosseini, a computer science graduate from Arak University and <
 [![](https://visitcount.itsvg.in/api?id=islaiwx &icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/isaliwx) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/isaliwx) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
